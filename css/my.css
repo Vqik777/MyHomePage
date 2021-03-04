@@ -1,0 +1,14 @@
+.portfolio-grids{
+    height: 300px;
+}
+.grid{
+    height: 100%;
+}
+.swipebox{
+    display: block;
+    height: 100%;
+}
+.img-responsive{
+    width: 100%;
+    height: 100%;
+}
